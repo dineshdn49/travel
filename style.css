@@ -510,7 +510,7 @@ button,input{
 }
 
 .subscribe_input{
-    width: 70%;
+    width: 100%;
     padding-right: .5rem;
     background-color: hsl(190,24%,97%);
     color: hsl(190,24%,35%);
